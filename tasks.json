@@ -1,0 +1,14 @@
+[
+    {
+        "text": "Learn Python",
+        "completed": true
+    },
+    {
+        "text": "Learn AI",
+        "completed": true
+    },
+    {
+        "text": "Do programming",
+        "completed": true
+    }
+]
