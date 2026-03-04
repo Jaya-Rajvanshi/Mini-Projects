@@ -12,3 +12,8 @@ A desktop-friendly BMI Calculator built using Streamlit.
 - Streamlit
 - Matplotlib
 
+### 2. Modern To Do List App
+A simple and modern desktop To-Do List application built using Python and CustomTkinter.
+The app allows users to manage daily tasks with a clean interface and supports Light/Dark mode themes.
+
+
